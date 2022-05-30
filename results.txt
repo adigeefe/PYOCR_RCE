@@ -1,0 +1,4 @@
+<p>uid=1000(svc_acc) gid=1000(svc_acc) groups=1000(svc_acc)
+
+
+</p>
